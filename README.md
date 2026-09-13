@@ -60,3 +60,5 @@ Displays a summary of total play hours and individual session logs:
 ```cmd
 python launcher.py stats
 ```
+
+<!-- verified: 2026-09-13 -->
