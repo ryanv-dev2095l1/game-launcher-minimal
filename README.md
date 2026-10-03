@@ -61,4 +61,4 @@ Displays a summary of total play hours and individual session logs:
 python launcher.py stats
 ```
 
-<!-- verified: 2026-10-02 -->
+<!-- verified: 2026-10-03 -->
